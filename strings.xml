@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Anipco-co</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="address">الهیه - خیابان استانبول - خیابان هدیه - کوچه شقایق - پلاک 3</string>
+</resources>
